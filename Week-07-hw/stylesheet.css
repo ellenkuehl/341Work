@@ -1,0 +1,38 @@
+body
+h1 {
+  font-family: 'Indie Flower', cursive;
+   color: purple;
+font-size: 70px
+}
+
+p::first-letter {
+    font-size: 200%;
+    color: #8A2BE2;
+}
+
+h2:hover {
+  font-size:
+   18px;}
+
+body
+
+
+{
+  background-color: #edd238;
+  background-position: 0 120px;
+  color: #230b49
+  line-height: 1.45;
+  text-align: left;
+  font-family: 'Indie Flower', cursive;}
+
+   {
+      font-family: 'Indie Flower', cursive;
+      color: purple
+  font-size: 300%
+     text-transform: uppercase;
+ font-weight: bold;
+ }
+
+.main {font-size: 20px; color:#2e0f60;background-color:#b3a5c9}
+
+}
