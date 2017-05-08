@@ -1,8 +1,17 @@
-### Justine Evans Section 51
+# Ellen Kuehl
+
+## Web Development
+
+### Justine Evans, Section 51
 
 First, I would like to apologize for my homework being late. My uncle Scott passed away and I had a rough time adjusting. He had Hunnington's Disease. To make things even better, my macbook was *destroyed by my niece* >.<. So now, I am resorting to a PC from Amazon which is a new feeling to me. Until I get a new Macbook.
 
 (Feeling better now, and hoping to kick some Web Development-butt.)
+
+- I
+- love
+- Web
+- Dev!
 
 For this assignment, I spent **a lot** of time trying to figure out how to use the command prompt on a windows computer. In the past, I had much success with my Mac, and learning the operating systems on a PC was definitely challenging. But really, I am enjoying this class! :)
 
