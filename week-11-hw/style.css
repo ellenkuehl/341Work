@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    color:	#8A2BE2;
+    font: 500 15px/1.8 "Times New Roman", sans-serif;
+}
+
+.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4 {
+    position: relative;
+    opacity: 0.75;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.bgimg-1 {
+    min-height: 700px;
+    background-image: url("http://i349.photobucket.com/albums/q369/EllenMKayy/crash-bandicoot-usa_zpsbto9qmyt.jpg");
+}
+
+.bgimg-2 {
+    min-height: 700px;
+    background-image: url("http://i349.photobucket.com/albums/q369/EllenMKayy/maxresdefault_zpsgkbzrjt3.jpg");
+}
+
+.bgimg-3 {
+    min-height: 700px;
+    background-image: url("http://i349.photobucket.com/albums/q369/EllenMKayy/45304-Harvest_Moon_-_More_Friends_of_Mineral_Town_UTrashman-1464233905_zpsdj3b5o3x.jpg");
+}
+
+.caption {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 100%;
+    color:  	#8A2BE2;
+    text-align: center;
+}
+
+
+
+.description {
+    padding: 50px 80px;
+    color: #ddd;
+    background-color: 	#8A2BE2;
+    text-align: center;
+    text-align: justify;
+}
+
+h2 {
+    color: #000;
+    text-transform: uppercase;
+    font: 100px "Times New Roman", sans-serif;
+    letter-spacing: 8px;
+}
+
+
+h3 {
+    color: #8A2BE2;
+    text-transform: uppercase;
+    font: 90px "Times New Roman", sans-serif;
+    letter-spacing: 8px;
+}
+
+
+/* Turn off parallax scrolling for tablets and phones */
+
+
+
+@media only screen and (max-device-width: 1024px) {
+    .bgimg-1, .bgimg-2, .bgimg-3 {
+        background-attachment: scroll;
+    }
+}
